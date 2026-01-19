@@ -1,4 +1,4 @@
-# NextBank - Système de Gestion Bancaire
+# 🏦 NextBank - Système de Gestion Bancaire
 
 Un système bancaire complet intégralement en C, comprenant une application serveur, une interface client et une API pour gérer les comptes financiers et les transactions avec sécurité, concurrence et intégrité des données.
 
