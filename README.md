@@ -343,4 +343,4 @@ Les exécutables compilés sont stockés dans le répertoire `output/` :
 
 ## Licence
 
-Licence MIT - voir LICENSE pour les détails.
+Licence MIT - voir [LICENCE](/LICENSE) pour les détails.
